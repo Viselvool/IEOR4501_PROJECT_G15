@@ -1,1 +1,4 @@
 # IEOR4501_PROJECT_G15
+GROUP 15 MEMBERS: LEONID KOZLOV AND JOSE PLANDIURA.
+
+This projects contains two Jupyter Notebooks 
