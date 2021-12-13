@@ -7,4 +7,4 @@ The Top10 file analyzes the top 10 causes of call in the 10471 zip code zone and
 
 The Parking Notebook analyzes the number of illegal parking incidents in the 10471 zip code zone. It compares the ratio of parking incidents over all types of incidents in the zip code zone to the overall parking incident rate. It returns a Boolean answering True if the ZIP code has a higher proportion than the overall rate of parking incidents and False otherwise.
 
-Recured and recommended Python libraries: CSV, NumPy, pandas.
+Required and recommended Python libraries: CSV, NumPy, pandas.
